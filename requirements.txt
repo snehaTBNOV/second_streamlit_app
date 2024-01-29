@@ -1,2 +1,3 @@
 #requirement.text
+cffi==1.15.0
 snowflake-connector-python
