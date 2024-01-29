@@ -1,1 +1,2 @@
-created the amin python file 
+import streamlit
+streamlit.title('hii')
